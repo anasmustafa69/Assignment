@@ -4,7 +4,7 @@ console.log(guestlist[i]," You're invited for dinner at my home ");
 console.log("bilal cant make to come at the dinner");
 guestlist[3]= "Anas" ;
 let guestlist2 =["Wajid", "Sohail", "Rehan", "Anas"];
-for (let i=0; i<=7; i++)
+for (let i=0; i<=6; i++)
 console.log(guestlist2[i]," You're invited for dinner at my home ");
 console.log("Great news! I found a bigger dinner table.");
 guestlist2 = ["Sir Ishaq", ...guestlist2];
